@@ -13,6 +13,7 @@ from ldclient.impl.http import HTTPFactory, _base_headers
 
 log = logging.getLogger("AirLog")
 
+
 import queue
 
 __LONG_SCALE__ = float(0xFFFFFFFFFFFFFFF)
